@@ -28,3 +28,17 @@ quadrupedal species, and some were able to shift between these stances. Elaborat
 as horns or crests are common to all dinosaur groups, and some extinct groups developed skeletal
 modifications such as bony armor and spines. Evidence suggests that egg laying and nest building are
 additional trits ahred by all dinosaur.
+
+While the dinosaurs' modern-day surviving avian lineage (birds) are generally small due to the constraints of
+flight, many prehistoric dinosaur (non-avian and avian) were large-bodied-the largest sauropod dinosaurs are
+estimated to have teched lengths of 39.7 meters (130 feet) and heights of 18 meters (59 feet) and were the
+largest land animals of all time. Still, the idea thatnon-avian dinosaurs were uniformly gigantic is a
+misconception based in part on preservation bias, as large, sturdy boned are more likely to last until they
+are fossilized. Many dinosaurs were quite small: Xixianykus, for example, was only about 50 cm (20 in) long.
+
+Through the first half of the 20th century, before birds were recognized in the early 19th century, mounted
+fossil dinosaur skeletons have been major attractions at museums  around the world, and dinosaurs have become
+an enduring part of world culture. The large sizes of some dinosaur groups, as well as their seemingly monstrous
+and fantastic nature, have ensured dinosaurs' regular appearance in best-selling books and films, such as
+Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur
+science, and new discoveries are regularly covered by the media.
