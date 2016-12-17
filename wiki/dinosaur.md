@@ -42,3 +42,36 @@ an enduring part of world culture. The large sizes of some dinosaur groups, as w
 and fantastic nature, have ensured dinosaurs' regular appearance in best-selling books and films, such as
 Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur
 science, and new discoveries are regularly covered by the media.
+
+## Etymology
+
+The taxon Dinosauria was formally named in 1842 by paleontologist Sir Richard Owen, who used it to refer to the "distinct tribe or
+sub-order of Saurian Reptiles" that were then being recognized in England and around the world. The tern is derived from the Greek
+words (sauros, meaning "lizard" or "reptile"). Though the taxonomic named has often been interpreted as a reference to dinosaurs'
+teeth, claws, and other fearsome characteristics, Owen intended it merely to evoke their size and majesty.
+
+Although the word dinosaur literally means "terrible lizard", the name is something of an etymological misnomer; even though dinosaurs
+are reptiles, they are not lizards, nor are they descended from them. Instead, dinosaurs, like many extinct forms of reptile sub-groups,
+did not exhibit characteristics which were traditionally regarded as reptilian, such as a sprawling limb posture or ectothermy
+(colloquially referred to as "cold-bloodedness"). Additionally, many other prehistoric animals, including mosasaurs, ichthyosaurs,
+pterosaurs, plesiosaurs, and Dimetrodon, while oftern popularly conceived of as dinosaurs, are not taxonomically classified as dinosaurs.
+
+## Definition
+
+Under phylogenetic nomenclature, dinosaurs are usuall defined as the group consisting of Triceratops, Neornithes [modern birds], their
+most recent common ancestor (MRCA). and all descendants. It hs also been suggested that Dinosauria be degined with respect of the MRCA
+of  Megalosaurus and Lguanodon, because these were two of the three genera cited by Ricard Owen when he recognized the Dinosauria. Both
+definitions result in the same set of animals being defined as dinosaurs. "Dinosauria = Ornithischia + Saurischia", encompassing
+ankylosaurians (armored herbiborous quadrupeds), stegosaurians (plated herbivorous quadrupeds), ceratopsians (herbivorous quadrupeds with
+horns and frills), ornithopods (bipedal or quadrupedal herbivores including "duck-bills"), theropods (mostly bipedal caenivores and birds),
+and sauropodomorphs (mostly large herbivorous quadrupeds with logn neks and tails).
+
+## Evolutionary history
+
+## Classification
+
+## Biology
+
+## Extinction of major groups
+
+## Cultural depictions
